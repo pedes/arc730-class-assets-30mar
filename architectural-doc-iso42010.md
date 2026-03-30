@@ -1,4 +1,7 @@
-# Template ISO 42010
+
+Note: The ISO/IEC/IEEE 42010 standard defines the “architecture description” as a collection of models (or “views”) that address the concerns of a set of stakeholders using one or more “viewpoints.” The outline and sample below are designed to help you capture stakeholders, their concerns, the viewpoints chosen to address those concerns, and the architectural decisions made along the way.
+
+⸻
 
 Part 1. Outline of an ISO/IEC/IEEE 42010–Based Architecture Description Document
 	1.	Introduction
